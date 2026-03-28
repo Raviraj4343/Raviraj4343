@@ -44,11 +44,10 @@
 - Designed with a product mindset for usability and impact   
 
 ---
-
 ## 📊 Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raviraj4343&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Raviraj4343&theme=github-dark&hide_border=true&background=00000000" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raviraj4343&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Raviraj4343&theme=github-dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9" />
 </p>
 
 ---
