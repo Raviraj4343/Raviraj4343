@@ -24,25 +24,29 @@
 ---
 
 ## 🧩 Selected Work
-
 ### 🔹 Rejpon (Reputation Wala)  
-> A reputation-based platform designed to build trust and credibility through user feedback and interaction  
+> A reputation-based platform designed to build trust and credibility through user feedback and interactions  
+
+🔗 Live: https://repjon.vercel.app/  
 
 - Developed a system to track and manage user reputation dynamically  
 - Enabled users to build credibility through ratings, feedback, and interactions  
 - Focused on trust-driven digital identity and accountability  
-- Designed backend logic for handling reputation scoring and user relationships     
+- Designed backend logic for reputation scoring and user relationships  
 
 ---
 
 ### 🔹 HYB (Help Your Buddy)  
-> A community-driven platform where users can help each other during critical situations  
+> A community-driven platform where people can support each other during critical situations  
+
+🔗 Live: https://hyb-delta.vercel.app/  
 
 - Built a system to connect people in urgent or need-based scenarios  
 - Enabled users to request and offer help within a trusted network  
 - Focused on real-world problem solving and community support  
-- Designed with a product mindset for usability and impact   
+- Designed with a product mindset for usability and impact  
 
+ 
 ---
 ## 📊 Activity
 <p align="center">
