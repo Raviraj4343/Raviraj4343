@@ -24,7 +24,7 @@
 ---
 
 ## 🧩 Selected Work
-### 🔹 Rejpon (Reputation Wala)  
+### 🔹 Rejpon  
 > A reputation-based platform designed to build trust and credibility through user feedback and interactions  
 
 🔗 Live: https://repjon.vercel.app/  
