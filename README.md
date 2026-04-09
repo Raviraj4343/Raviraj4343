@@ -1,12 +1,12 @@
 <h1 align="center">Ravi Raj</h1>
 
 <p align="center">
-  <b>System Builder 🚀 • API Developer • Scalable Systems Enthusiast</b><br/>
-  <sub>Building backend systems that solve real-world problems.</sub>
+  <b>Full Stack Developer • Backend Focused • System Design Enthusiast • Problem Solver • MERN Stack Developer</b><br/>
+  <sub>Building scalable systems that solve real-world problems.</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=System+Builder;API+Developer;Scalable+Systems;Product+Focused+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=System+Builder;API+Developer;Problem+Solver;Scalable+Systems;Product+Focused+Developer" />
 </p>
 
 <p align="center">
@@ -15,56 +15,55 @@
 
 ---
 
-## ⚡ About
-- 🧠 I build **systems, not just features**
-- ⚙️ Backend-focused developer using **Node.js, Express, MongoDB**
-- 🚀 Interested in **scalable architecture & system design**
-- 📈 Improving daily through **DSA + real-world projects**
+## About
+- Backend-focused developer skilled in **Node.js, Express, MongoDB**
+- Experience building **scalable full-stack applications (MERN)**
+- Strong problem-solving skills (**800+ DSA problems, LeetCode 1786**)
+- Interested in **system design and real-world product development**
 
 ---
 
-## 🧩 Selected Work
-### 🔹 Rejpon  
-> A reputation-based platform designed to build trust and credibility through user feedback and interactions  
+## Projects
 
-🔗 Live: https://repjon.vercel.app/  
-
-- Developed a system to track and manage user reputation dynamically  
-- Enabled users to build credibility through ratings, feedback, and interactions  
-- Focused on trust-driven digital identity and accountability  
-- Designed backend logic for reputation scoring and user relationships  
+### HYB (Help Your Buddy)  
+🔗 https://hyb-delta.vercel.app/  
+- Built a real-time peer assistance platform with structured workflows  
+- Implemented **JWT authentication and RBAC** for secure access  
+- Optimized backend performance (**<300ms response time**)  
+- Designed scalable APIs and user interaction systems  
 
 ---
 
-### 🔹 HYB (Help Your Buddy)  
-> A community-driven platform where people can support each other during critical situations  
+### FitCek — Smart Health Tracking Platform  
+🔗 https://fitcek.vercel.app/  
+- Developed full-stack app for nutrition and health tracking  
+- Implemented authentication, email verification, and secure APIs  
+- Integrated AI-based insights using **Gemini API**  
+- Built real-time features using **Socket.IO**  
 
-🔗 Live: https://hyb-delta.vercel.app/  
-
-- Built a system to connect people in urgent or need-based scenarios  
-- Enabled users to request and offer help within a trusted network  
-- Focused on real-world problem solving and community support  
-- Designed with a product mindset for usability and impact  
-
- 
 ---
-## 📊 Activity
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raviraj4343&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Raviraj4343&theme=github-dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9" />
+
+### Recommendation-Based Education Platform  
+- Built a system for personalized content recommendation  
+- Focused on improving learning experience using data-driven logic  
+
+---
+
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,nodejs,express,react,nextjs,mongodb,git,github,postman,androidstudio,vscode" />
 </p>
 
 ---
 
-## 📈 Current Focus
-- 🧠 Solving Data Structures & Algorithm problems daily  
-- ⚙️ Designing backend systems (Node.js, Express, MongoDB)  
-- 🏗️ Learning scalable system design  
-- 🚀 Building real-world applications  
+## Current Focus
+- Data Structures & Algorithms  
+- Backend system design  
+- Building scalable real-world applications  
 
 ---
 
-## 🌐 Connect
+## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-r-318b55247/">LinkedIn</a> •
   <a href="https://raj43.vercel.app/">Portfolio</a> •
@@ -73,13 +72,6 @@
 
 ---
 
-## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Raviraj4343/Raviraj4343/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>"Build systems. Solve real problems. Stay consistent."</i>
+  <i>Build systems. Solve real problems. Stay consistent.</i>
 </p>
