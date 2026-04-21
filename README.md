@@ -38,12 +38,12 @@
 ### FitCek — Smart Health Tracking Platform  
 🔗 https://fitcek.vercel.app
 
-Developed full-stack app for nutrition and health tracking
-Implemented authentication, email verification, and secure APIs
-Integrated AI-based insights using Gemini API
-Built real-time features using Socket.IO
-Integrated secure payment gateway for subscriptions and premium plans
-Managed end-to-end payment flow including checkout, verification, and transaction handling
+- Developed full-stack app for nutrition and health tracking
+- Implemented authentication, email verification, and secure APIs
+- Integrated AI-based insights using Gemini API
+- Built real-time features using Socket.IO
+- Integrated secure payment gateway for subscriptions and premium plans
+- Managed end-to-end payment flow including checkout, verification, and transaction handling
 
 ---
 
