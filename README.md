@@ -26,7 +26,8 @@
 ## Projects
 
 ### HYB (Help Your Buddy)  
-🔗 https://hyb-theta.vercel.app/  
+🔗 https://hyb-theta.vercel.app
+
 - Built a real-time peer assistance platform with structured workflows  
 - Implemented **JWT authentication and RBAC** for secure access  
 - Optimized backend performance (**<300ms response time**)  
@@ -35,11 +36,14 @@
 ---
 
 ### FitCek — Smart Health Tracking Platform  
-🔗 https://fitcek.vercel.app/  
-- Developed full-stack app for nutrition and health tracking  
-- Implemented authentication, email verification, and secure APIs  
-- Integrated AI-based insights using **Gemini API**  
-- Built real-time features using **Socket.IO**  
+🔗 https://fitcek.vercel.app
+
+Developed full-stack app for nutrition and health tracking
+Implemented authentication, email verification, and secure APIs
+Integrated AI-based insights using Gemini API
+Built real-time features using Socket.IO
+Integrated secure payment gateway for subscriptions and premium plans
+Managed end-to-end payment flow including checkout, verification, and transaction handling
 
 ---
 
