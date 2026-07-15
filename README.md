@@ -26,7 +26,7 @@
 ## Projects
 
 ### HYB (Help Your Buddy)  
-🔗 https://hyb-theta.vercel.app
+🔗 https://hlpbdy.vercel.app
 
 - Built a real-time peer assistance platform with structured workflows  
 - Implemented **JWT authentication and RBAC** for secure access  
