@@ -35,6 +35,19 @@
 
 ---
 
+### CrkCode — Company-Wise LeetCode Practice Platform
+
+🔗 https://crkcode.vercel.app/
+
+- Built a platform to help developers prepare for coding interviews through company-wise LeetCode problem tracking and practice.
+- Developed backend services using **Node.js, Express.js, and MongoDB**, implementing secure authentication with JWT.
+- Implemented GitHub CSV synchronization to import and update company-wise problem datasets.
+- Optimized data synchronization using the **GitHub Git Trees API** and raw file downloads to minimize unnecessary API requests.
+- Designed an **8-worker concurrency pool** for parallel data processing and efficient synchronization.
+- Used MongoDB `bulkWrite` with unordered upserts for efficient bulk database updates and duplicate prevention.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, GitHub API, Brevo SMTP
+
 ### FitCek — Smart Health Tracking Platform  
 🔗 https://fitcek.vercel.app
 
