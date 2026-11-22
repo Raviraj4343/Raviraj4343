@@ -60,7 +60,7 @@
 - Compound indexes, in-memory **TTL cache**, stale-while-revalidate
 - Hardened against NoSQL injection, HPP & brute force
 
-[🔗 Live](https://crkcode.vercel.app/) · [📂 Code](https://github.com/Raviraj4343/crkcode)
+[🔗 Live](https://crkcode.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@
 
 - My projects, skills and experience in one place
 
-[🔗 Live](https://raj43.vercel.app/) · [📂 Code](https://github.com/Raviraj4343/raj43)
+[🔗 Live](https://raj43.vercel.app/)
 
 </td>
 </tr>
